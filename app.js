@@ -94,4 +94,52 @@
 
 
 
+//---------------------------------------------------------------------------------------------------------
+
+
+
+
+
+//Q1
+
+// let arrFruits = ["banana" , "apple" , "orange" , "mango" , "lemmon" ];
+// let unorder = document.getElementById("unorderId");
+// let images = ["banana.jpg" , "apple.jpg" , "orange.jpg" , "mango.jpg" , "lemmon.jpg" ]
+//    for(let i=0 ; i<arrFruits.length ; i++)
+//        {
+//          let list=document.createElement("li");
+//          let image=document.createElement("img");
+//          image.style.width="300px";
+//          image.style.height="300px";
+//          image.setAttribute("src",images[i]);
+//          unorder.appendChild(list);
+//          list.appendChild(image);
+//        }
+
+//------------------------------------------------------------------------------------------------------------------
+
+//Q2 
+
+// let arr=[1,4,6,3,5,9,10,24,34];
+// let num=120;
+// function check(arr,number)
+// {
+
+// for(let i=0 ; i<arr.length;i++)
+//     {
+//         if(number==arr[i])
+//             {
+//                 return i;
+//             }
+//     }
+
+//     return -1;
+// }
+
+// console.log(check(arr,num));
+
+
+
+
+
 
